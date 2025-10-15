@@ -1,9 +1,3 @@
-
-
-Of course! Here is a comprehensive, in-depth `README.md` file designed for a broad audience, from end-users on Windows to developers on other platforms. It includes detailed setup instructions, troubleshooting, and a user-friendly guide.
-
----
-
 # 🖤 J-Random Password Generator
 
 <div align="center">
